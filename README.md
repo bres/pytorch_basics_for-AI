@@ -26,4 +26,3 @@ Understanding the underlying mathematics of deep learning is crucial for buildin
 ├── notebooks/          # Interactive Jupyter notebooks with step-by-step code and mathematical notes
 └── README.md           # Project documentation
 # pytorch_basics_for-AI
-# pytorch_basics_for-AI
